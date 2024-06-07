@@ -32,7 +32,7 @@ This repository contains the tasks completed during the internship program in we
 ## Phase 3 Tasks
 
 ### Task 3
-1. [chat-application/](chat-application/): Chatting Application/Website
+1. [chatbot-implementation/](chatbot-implementation/): ChatBot Implementation/Website
 
 ---
 
