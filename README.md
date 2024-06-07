@@ -7,9 +7,6 @@ This repository contains the tasks completed during the internship program in we
 - **Domain:** Web Development
 - **Duration:** Two Months
 
-## Contact Information
-For any queries or assistance, please contact us at skillraace.in@gmail.com.
-
 ---
 
 ## Phase 1 Tasks
